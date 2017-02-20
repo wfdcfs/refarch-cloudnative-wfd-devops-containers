@@ -23,7 +23,7 @@ git-wfd-eureka:
   service_id: githubpublic
   parameters:
     repo_name: "eureka-ic-clone"
-    repo_url: "https://github.com/ibm-cloud-architecture/refarch-cloudnative-netflix-eureka"
+    repo_url: "https://github.com/wfdcfs/refarch-cloudnative-netflix-eureka"
     type: clone
     has_issues: false
 
@@ -31,7 +31,7 @@ git-wfd-config-server:
   service_id: githubpublic
   parameters:
     repo_name: "config-ic-clone"
-    repo_url: "https://github.com/ibm-cloud-architecture/refarch-cloudnative-spring-config"
+    repo_url: "https://github.com/wfdcfs/refarch-cloudnative-spring-config"
     type: clone
     has_issues: false
 
@@ -39,7 +39,7 @@ git-wfd-zuul:
   service_id: githubpublic
   parameters:
     repo_name: "zuul-ic-clone"
-    repo_url: "https://github.com/ibm-cloud-architecture/refarch-cloudnative-netflix-zuul"
+    repo_url: "https://github.com/wfdcfs/refarch-cloudnative-netflix-zuul"
     type: clone
     has_issues: false
 
@@ -47,7 +47,7 @@ git-wfd-menu:
   service_id: githubpublic
   parameters:
     repo_name: "menu-ic-clone"
-    repo_url: "https://github.com/ibm-cloud-architecture/refarch-cloudnative-wfd-menu"
+    repo_url: "https://github.com/wfdcfs/refarch-cloudnative-wfd-menu"
     type: clone
     has_issues: false
 
@@ -55,7 +55,7 @@ git-wfd-appetizer:
   service_id: githubpublic
   parameters:
     repo_name: "appetizer-ic-clone"
-    repo_url: "https://github.com/ibm-cloud-architecture/refarch-cloudnative-wfd-appetizer"
+    repo_url: "https://github.com/wfdcfs/refarch-cloudnative-wfd-appetizer"
     type: clone
     has_issues: false
 
@@ -63,7 +63,7 @@ git-wfd-entree:
   service_id: githubpublic
   parameters:
     repo_name: "entree-ic-clone"
-    repo_url: "https://github.com/ibm-cloud-architecture/refarch-cloudnative-wfd-entree"
+    repo_url: "https://github.com/wfdcfs/refarch-cloudnative-wfd-entree"
     type: clone
     has_issues: false
 
@@ -71,7 +71,7 @@ git-wfd-dessert:
   service_id: githubpublic
   parameters:
     repo_name: "dessert-ic-clone"
-    repo_url: "https://github.com/ibm-cloud-architecture/refarch-cloudnative-wfd-dessert"
+    repo_url: "https://github.com/wfdcfs/refarch-cloudnative-wfd-dessert"
     type: clone
     has_issues: false
 
@@ -79,7 +79,7 @@ git-wfd-menu-ui:
   service_id: githubpublic
   parameters:
     repo_name: "menu-ui-ic-clone"
-    repo_url: "https://github.com/ibm-cloud-architecture/refarch-cloudnative-wfd-ui"
+    repo_url: "https://github.com/wfdcfs/refarch-cloudnative-wfd-ui"
     type: clone
     has_issues: false
 
