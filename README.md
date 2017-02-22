@@ -10,6 +10,8 @@ In order to create a toolchain for the What's For Dinner Microservices Reference
 
 [![Create wfd Deployment Toolchain](https://new-console.ng.bluemix.net/devops/graphics/create_toolchain_button.png)](https://new-console.w3ibm.bluemix.net/devops/setup/deploy/?repository=https%3A//github.com/ibm-cloud-architecture/refarch-cloudnative-wfd-devops-containers.git)
 
+[![Create w3ibm wfd Deployment Toolchain](https://new-console.ng.bluemix.net/devops/graphics/create_toolchain_button.png)](https://new-console.w3ibm.bluemix.net/devops/setup/deploy/?repository=https%3A//github.com/ibm-cloud-architecture/refarch-cloudnative-wfd-devops-containers.git&branch=RESILIENCY)
+
 1. The "What is for dinner Toolchain" creation view will open.
 2. In this window, you will be asked to specify the following properties for your toolchain:
  1. Specify a name for your toolchain that is __unique__ among all toolchains on your Bluemix namespace DevOps section.
